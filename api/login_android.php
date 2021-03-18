@@ -1,1 +1,0 @@
-http://app2.intopet.co.kr/app/api/login_android.php?token=
